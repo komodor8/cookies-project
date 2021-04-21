@@ -27,7 +27,7 @@ SECRET_KEY = 'lu)oc#fmp4fz2h(lo$d=r^p*=&jv1+n=frn%+$rbdn#z$h4ho$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
